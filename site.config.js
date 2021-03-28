@@ -7,13 +7,13 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'docs',
+  name: '梁先生的博客',
   domain: 'while.work',
   author: 'liangddyy',
 
   // open graph metadata (optional)
   description: '梁先生的博客,笔记,技术博客,Unity,Andoird,游戏开发',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: 'socialImageTitle',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
@@ -32,7 +32,7 @@ module.exports = {
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: 'liangddyy/liangddyy.github.io',
+  utterancesGitHubRepo: 'liangddyy/nextjs-notion',
 
   // whether or not to enable support for LQIP preview images (optional)
   // NOTE: this requires you to set up Google Firebase and add the environment
