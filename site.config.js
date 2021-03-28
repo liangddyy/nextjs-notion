@@ -17,14 +17,14 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'liangddyy',
+  twitter: '',
   github: 'liangddyy',
-  linkedin: 'liangddyy',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
-  defaultPageCover: null,
+  defaultPageIcon: '/defaultPageIcon.png',
+  defaultPageCover: '/defaultPageCover.jpg',
   defaultPageCoverPosition: 0.5,
 
   // image CDN host to proxy all image requests through (optional)
